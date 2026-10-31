@@ -1,0 +1,10 @@
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\ApiHospitalApplication.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Config\AppConfig.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\controller\HospitalesController.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\models\dto\HospitalesRequestDTO.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\models\dto\HospitalesResponseDTO.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\models\entity\HospitalesEntity.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\repository\HospitalesRepository.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\service\HospitalesService.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Response\ApiResponse.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\ServletInitializer.java
