@@ -6,5 +6,11 @@ G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales
 G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\models\entity\HospitalesEntity.java
 G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\repository\HospitalesRepository.java
 G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Hospitales\service\HospitalesService.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Ingresados\controller\IngresadoController.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Ingresados\models\dto\IngresadoRequestDTO.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Ingresados\models\dto\IngresadoResponseDTO.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Ingresados\models\entity\IngresadoEntity.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Ingresados\repository\IngresadoRepository.java
+G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Modules\Ingresados\service\IngresadoService.java
 G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\Response\ApiResponse.java
 G:\Mi unidad\ApiHospital\src\main\java\miApiHospi\ApiHospital\ServletInitializer.java
